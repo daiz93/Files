@@ -27,7 +27,7 @@ Emacs' true power shines through when it comes to efficient text manipulation. H
    - Paste: `Ctrl` + `Y`.
 
 2. **Undo and Redo:**
-   - Undo: `Ctrl` + `_` or `Ctrl` + `X`, `Ctrl` + `U`.
+   - Undo: `Ctrl` + `_` or `Ctrl` + `X`, `U`.
    - Redo: `Ctrl` + `Shift` + `_`.
 
 3. **Search and Replace:**
